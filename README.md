@@ -42,3 +42,16 @@ python -m venv .venv
 # Windows (PowerShell):
 .venv\Scripts\Activate.ps1
 pip install -r requirements.txt
+
+```md
+---
+
+## Demo
+
+<p align="center">
+  <img src="assets/demo_faq.jpeg" alt="FAQ demo" width="48%"/>
+</p>
+
+<p align="center">
+  <em>FAQ com base de conhecimento (esq.) e simulação financeira (dir.).</em>
+</p>
