@@ -60,6 +60,3 @@ pip install -r requirements.txt
 
 
 
-## Demo
-![FAQ demo](assets/assets/demo_faq.jpeg)
-
