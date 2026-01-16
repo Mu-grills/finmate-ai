@@ -51,6 +51,7 @@ O **FinMate AI** é um assistente conversacional que:
 ---
 
 ## ▶️ Como rodar localmente
+
 ### 1) Instale dependências
 ```bash
 python -m venv .venv
