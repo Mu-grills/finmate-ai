@@ -47,7 +47,6 @@ pip install -r requirements.txt
 ---
 
 ## Demo
-
 <p align="center">
   <img src="assets/demo_faq.jpeg" alt="FAQ demo" width="48%"/>
 </p>
