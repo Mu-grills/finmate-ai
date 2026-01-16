@@ -13,8 +13,6 @@ O **FinMate AI** é um assistente conversacional que:
 - mantém **contexto** da conversa (Streamlit)
 - entrega orientação com **dica de decisão** + **próximo passo**
 
-![FAQ demo](assets/demo_faq.jpeg)
-
 ---
 
 ## 🧠 Arquitetura (visão rápida)
