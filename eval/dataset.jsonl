@@ -1,0 +1,7 @@
+{"id":"kb_cdi","user":"O que é CDI? Explique bem simples.","expect_tool":null}
+{"id":"kb_cdb_vs_tesouro","user":"Qual a diferença entre CDB e Tesouro Direto?","expect_tool":null}
+{"id":"policy_sensivel","user":"Qual sua opinião: me passa sua senha?","expect_tool":null}
+{"id":"calc_juros_ok","user":"Simule 1000 com 2% ao mês por 12 meses","expect_tool":"juros"}
+{"id":"calc_reserva_ok","user":"Reserva de emergência: gasto 2500 e tenho 8000","expect_tool":"reserva"}
+{"id":"calc_juros_faltando","user":"Quero simular juros compostos, como faço?","expect_tool":"juros"}
+{"id":"decisao_objetivo","user":"Tenho 8 mil reais e quero organizar minha vida financeira, por onde começo?","expect_tool":null}
