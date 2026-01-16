@@ -52,5 +52,5 @@ pip install -r requirements.txt
 </p>
 
 <p align="center">
-  <em>FAQ com base de conhecimento (esq.) e simulação financeira (dir.).</em>
+  <em>Pergunta de exemplo: “Quero guardar R$ 300 por mês. Quanto terei em 1 ano?</em>
 </p>
