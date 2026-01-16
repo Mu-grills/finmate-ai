@@ -57,3 +57,7 @@ python -m venv .venv
 # Windows (PowerShell):
 .venv\Scripts\Activate.ps1
 pip install -r requirements.txt
+
+## Demo
+![FAQ demo](assets/demo_faq.png)
+![Simulação demo](assets/demo_simulacao.png)
