@@ -47,9 +47,7 @@ pip install -r requirements.txt
 ---
 
 ## Demo
-<p align="center">
-  <img src="assets/demo_faq.jpeg" alt="FAQ demo" width="48%"/>
-</p>
+![FAQ demo](assets/demo_faq.jpeg)
 
 <p align="center">
   <em>Pergunta de exemplo: “Quero guardar R$ 300 por mês. Quanto terei em 1 ano?</em>
