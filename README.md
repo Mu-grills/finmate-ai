@@ -1,15 +1,21 @@
 <p align="center">
   <img 
-    src="assets/finmate_icon.jpg"
+    src="assets/finmate_icon.jpeg"
     alt="FinMate AI logo"
     width="180"
-    style="border-radius: 50%;"
+    style="
+      border-radius: 50%;
+      background: #ffffff;
+      padding: 10px;
+      box-shadow: 0 0 25px rgba(120, 150, 255, 0.35);
+    "
   />
 </p>
 
 <h1 align="center" style="font-size: 3.2em; margin-top: 10px;">
   FinMate AI
 </h1>
+
 
 
 <p align="center">
