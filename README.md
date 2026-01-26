@@ -1,7 +1,11 @@
-![FAQ demo](assets/finnm.jpg)
-# FinnMate AI
-Experiência digital de relacionamento financeiro (educativa) guiada por IA generativa (Gemini) + boas práticas de UX.
+<h1 align="center">
+  <img src="assets/finmate_icon.jpg" alt="FinMate AI logo" width="32" style="vertical-align: middle;" />
+  FinMate AI
+</h1>
 
+<p align="center">
+Experiência digital de relacionamento financeiro (educativa) guiada por IA generativa (Gemini) + boas práticas de UX.
+</p>
 > ⚠️ Aviso: conteúdo educativo. Não substitui aconselhamento financeiro profissional.
 
 ---
