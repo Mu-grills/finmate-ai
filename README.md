@@ -1,5 +1,5 @@
-![FAQ demo](assets/finn.png)
-# FinMate AI
+![FAQ demo](assets/finnm.jpg)
+# FinnMate AI
 Experiência digital de relacionamento financeiro (educativa) guiada por IA generativa (Gemini) + boas práticas de UX.
 
 > ⚠️ Aviso: conteúdo educativo. Não substitui aconselhamento financeiro profissional.
@@ -7,7 +7,7 @@ Experiência digital de relacionamento financeiro (educativa) guiada por IA gene
 ---
 
 ## O que é
-O **FinMate AI** é um assistente conversacional que:
+O **FinnMate AI** é um assistente conversacional que:
 - entende perguntas em linguagem natural
 - responde com base em uma **base de conhecimento** (Markdown)
 - realiza **simulações demonstrativas** (Python)
