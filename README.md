@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="assets/finmate_icon.jpeg"
+    src="assets/finmate_icon.jpg"
     alt="FinMate AI logo"
     width="180"
     style="
