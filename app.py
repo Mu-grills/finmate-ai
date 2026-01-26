@@ -10,8 +10,8 @@ from src.agent import build_prompt, ask_gemini
 
 load_dotenv()
 
-st.set_page_config(page_title="FinMate AI", page_icon="💳", layout="centered")
-st.title("💳 FinMate AI")
+st.set_page_config(page_title="FinnMate AI", page_icon="💳", layout="centered")
+st.title("💳 FinnMate AI")
 st.caption("Consultor amigável (educativo) para decisões financeiras com IA + base de conhecimento")
 
 api_key = os.getenv("GEMINI_API_KEY")
