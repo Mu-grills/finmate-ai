@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets/finmate_icon.jpg" alt="FinMate AI logo" width="32" style="vertical-align: middle;" />
+  <img src="assets/finmate_icon.jpg" alt="FinMate AI logo" width="48" style="vertical-align: middle;" />
   FinMate AI
 </h1>
 
