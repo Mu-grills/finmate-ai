@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center" style="font-size: 3.2em; margin-top: 10px;">
-  FinMate AI
+  FinnMate AI
 </h1>
 
 
