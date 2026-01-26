@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/finmate_icon.jpeg" alt="FinMate AI logo" width="120"/>
+  <img src="assets/finmate_icon.jpg" alt="FinMate AI logo" width="120"/>
 </p>
 
 <h1 align="center">FinMate AI</h1>
