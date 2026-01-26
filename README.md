@@ -3,12 +3,7 @@
     src="assets/finmate_icon.jpg"
     alt="FinMate AI logo"
     width="180"
-    style="
-      border-radius: 50%;
-      background: #ffffff;
-      padding: 10px;
-      box-shadow: 0 0 25px rgba(120, 150, 255, 0.35);
-    "
+
   />
 </p>
 
