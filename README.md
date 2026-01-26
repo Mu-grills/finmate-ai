@@ -1,12 +1,8 @@
-<h1 align="center">
-  <img 
-    src="assets/finmate_icon.jpg"
-    alt="FinMate AI logo"
-    width="64"
-    style="border-radius: 50%; vertical-align: middle; margin-right: 10px;"
-  />
-  FinMate AI
-</h1>
+<p align="center">
+  <img src="assets/finmate_icon.jpeg" alt="FinMate AI logo" width="120"/>
+</p>
+
+<h1 align="center">FinMate AI</h1>
 
 <p align="center">
 Experiência digital de relacionamento financeiro (educativa) guiada por IA generativa (Gemini) + boas práticas de UX.
