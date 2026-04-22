@@ -13,9 +13,8 @@
 
 
 <p align="center">
-Experiência digital de relacionamento financeiro (educativa) guiada por IA generativa (Gemini) + boas práticas de UX.
+Experiência digital de relacionamento financeiro (educativa) + boas práticas de UX.
 </p>
-> ⚠️ Aviso: conteúdo educativo. Não substitui aconselhamento financeiro profissional.
 
 ---
 
